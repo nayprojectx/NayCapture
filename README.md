@@ -1,3 +1,3 @@
 # NayCapture
 
-High-performance esports clipping and instant replay system.
+زوط لاي احد يحمله ياعيال تفهمون
